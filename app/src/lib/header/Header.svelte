@@ -47,7 +47,7 @@
 
 <div class="navbar bg-base-100">
 	<div class="flex-1 gap-2">
-		<a class="btn btn-ghost normal-case text-xl" href="/">Unlimited Knowledge</a>
+		<a class="btn btn-ghost normal-case text-xl" href="/">Stop Snoozin</a>
 		{#await $provider?.getNetwork() then value}
 			{#if value?.name}<span
 					>powered by {value?.name === 'unknown' ? 'localhost' : value?.name}</span
