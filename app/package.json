@@ -38,6 +38,7 @@
 	"type": "module",
 	"dependencies": {
 		"daisyui": "^3.5.1",
-		"ethers": "^6.7.0"
+		"ethers": "^6.7.0",
+		"tw-elements": "^1.0.0-beta3"
 	}
 }
